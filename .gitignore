@@ -173,3 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 usgs/
+Landsat8_Images/extracted/LC08_L1GT_072043_20170501_20201016_02_T2_B8.TIF
+Landsat8_Images/LC08_L1GT_072043_20170501_20201016_02_T2 (2).tar
+Landsat8_Images/false_color_composite.tif
